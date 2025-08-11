@@ -3,6 +3,8 @@
         "stdint.h": "c",
         "gdt.h": "c",
         "cstdint": "c",
-        "ranges": "c"
+        "ranges": "c",
+        "tty.h": "c",
+        "stddef.h": "c"
     }
 }
