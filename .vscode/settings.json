@@ -5,6 +5,11 @@
         "cstdint": "c",
         "ranges": "c",
         "tty.h": "c",
-        "stddef.h": "c"
+        "stddef.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "cstdio": "c",
+        "*.inc": "c",
+        "idt.h": "c"
     }
 }
